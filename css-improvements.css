@@ -1,0 +1,109 @@
+/* Contestant Image Styling */
+.contestant-image {
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%; /* Make images circular */
+  background-color: #f3f4f6;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 0 auto;
+}
+
+.contestant-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 20%; /* Position to focus on face area */
+  transition: transform 0.3s ease-out;
+}
+
+.contestant-image:hover img {
+  transform: scale(1.05); /* Subtle zoom effect on hover */
+}
+
+/* Different size variants */
+.contestant-image-xs {
+  width: 2rem;
+  height: 2rem;
+}
+
+.contestant-image-sm {
+  width: 3rem;
+  height: 3rem;
+}
+
+.contestant-image-md {
+  width: 4rem;
+  height: 4rem;
+}
+
+.contestant-image-lg {
+  width: 6rem;
+  height: 6rem;
+}
+
+.contestant-image-xl {
+  width: 8rem;
+  height: 8rem;
+}
+
+/* Image grid for tribe display */
+.contestant-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+/* Contestant card styling */
+.contestant-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  background-color: white;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.contestant-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.contestant-name {
+  margin-top: 0.5rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  text-align: center;
+  color: #333;
+}
+
+/* Loading and error states */
+.contestant-image-loading,
+.contestant-image-error {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background-color: #e5e7eb;
+  color: #9ca3af;
+  font-size: 0.75rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 640px) {
+  .contestant-grid {
+    grid-template-columns: repeat(auto-fill, minmax(70px, 1fr));
+  }
+  
+  .contestant-image-lg {
+    width: 5rem;
+    height: 5rem;
+  }
+  
+  .contestant-image-xl {
+    width: 6rem;
+    height: 6rem;
+  }
+}

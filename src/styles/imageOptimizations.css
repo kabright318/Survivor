@@ -1,0 +1,134 @@
+/* Image optimization styles for high-quality display */
+
+/* Enhance image rendering across browsers */
+.optimized-image {
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+  image-rendering: high-quality;
+  
+  /* Ensure images are sharp on high-DPI displays */
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  
+  /* Improve text rendering when overlaid on images */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  /* Prevent image distortion during animations */
+  transform: translateZ(0);
+  will-change: transform;
+}
+
+/* Loading state improvements */
+.image-loading {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+/* High-quality image filters */
+.image-enhanced {
+  filter: contrast(1.05) saturate(1.1) brightness(1.02);
+  transition: filter 0.3s ease;
+}
+
+.image-enhanced:hover {
+  filter: contrast(1.08) saturate(1.15) brightness(1.03);
+}
+
+/* Responsive image containers */
+.image-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.image-container::before {
+  content: '';
+  display: block;
+  padding-bottom: 100%; /* 1:1 aspect ratio for circular images */
+}
+
+.image-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 20%;
+}
+
+/* Progressive enhancement for WebP support */
+@supports (background-image: url('data:image/webp;base64,')) {
+  .webp-enhanced {
+    /* Additional optimizations for WebP-capable browsers */
+    image-rendering: -webkit-optimize-contrast;
+  }
+}
+
+/* Improve contrast on retina displays */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .optimized-image {
+    image-rendering: -webkit-optimize-contrast;
+    filter: contrast(1.02) saturate(1.05);
+  }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .image-enhanced {
+    filter: contrast(1.1) saturate(1.05) brightness(0.95);
+  }
+}
+
+/* Mobile optimizations */
+@media (max-width: 768px) {
+  /* Improve touch targets */
+  .touch-manipulation {
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  /* Better button spacing on mobile */
+  button {
+    min-height: 44px; /* Apple's recommended minimum touch target */
+  }
+  
+  /* Smooth scrolling for modal content */
+  .modal-content {
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  /* Prevent text size adjustment on orientation change */
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+  }
+}
+
+/* Landscape phone optimizations */
+@media (max-width: 768px) and (orientation: landscape) {
+  .contestant-modal {
+    max-height: 85vh;
+  }
+}
+
+/* Safe area support for newer mobile devices */
+@supports (padding: max(0px)) {
+  .h-safe-bottom {
+    height: env(safe-area-inset-bottom);
+  }
+  
+  .pb-safe {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+}

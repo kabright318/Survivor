@@ -1,0 +1,258 @@
+2025-04-21 14:11:24,386 - INFO - Found 1493 contestant images across 43 seasons
+2025-04-21 14:11:24,387 - INFO - Created backup of original file at src/data/tribeData.js.backup
+2025-04-21 14:11:24,388 - INFO - Season 1, Tribe Tagi: 'richard_hatch' -> 'Richard Hatch' with image
+2025-04-21 14:11:24,388 - INFO - Season 1, Tribe Tagi: 'Kelly' -> 'Kelly Wiglesworth' with image
+2025-04-21 14:11:24,388 - INFO - Season 1, Tribe Tagi: 'Rudy' -> 'Rudy Boesch' with image
+2025-04-21 14:11:24,389 - INFO - Season 1, Tribe Tagi: 'Sean' -> 'Sean Kenniff' with image
+2025-04-21 14:11:24,389 - INFO - Season 1, Tribe Tagi: 'Dirk' -> 'Dirk Been' with image
+2025-04-21 14:11:24,392 - INFO - Season 1, Tribe Tagi: 'Sonja' -> 'Sonja Christopher' with image
+2025-04-21 14:11:24,392 - INFO - Season 1, Tribe Tagi: 'Stacey' -> 'Stacey Stillman' with image
+2025-04-21 14:11:24,392 - INFO - Season 2, Tribe Kucha: 'Michael' -> 'Michael Skupin' with image
+2025-04-21 14:11:24,393 - INFO - Season 2, Tribe Kucha: 'Elisabeth' -> 'Elisabeth Filarski' with image
+2025-04-21 14:11:24,393 - INFO - Season 2, Tribe Kucha: 'Rodger' -> 'Rodger Bingham' with image
+2025-04-21 14:11:24,393 - INFO - Season 2, Tribe Kucha: 'Nick' -> 'Nick Brown' with image
+2025-04-21 14:11:24,393 - INFO - Season 2, Tribe Kucha: 'Alicia' -> 'Alicia Calaway' with image
+2025-04-21 14:11:24,393 - INFO - Season 2, Tribe Kucha: 'Jeff' -> 'Jeff Varner' with image
+2025-04-21 14:11:24,393 - INFO - Season 2, Tribe Kucha: 'Kimmi' -> 'Kimmi Kappenberg' with image
+2025-04-21 14:11:24,394 - INFO - Season 2, Tribe Kucha: 'Debb' -> 'Debb Eaton' with image
+2025-04-21 14:11:24,394 - INFO - Season 3, Tribe Boran: 'Ethan' -> 'Ethan Zohn' with image
+2025-04-21 14:11:24,394 - INFO - Season 3, Tribe Boran: 'Kim' -> 'Kim Powers' with image
+2025-04-21 14:11:24,394 - INFO - Season 3, Tribe Boran: 'Lex' -> 'Lex Van Den Berghe' with image
+2025-04-21 14:11:24,394 - INFO - Season 3, Tribe Boran: 'Tom' -> 'Tom Buchanan' with image
+2025-04-21 14:11:24,394 - INFO - Season 3, Tribe Boran: 'Clarence' -> 'Clarence Black' with image
+2025-04-21 14:11:24,395 - INFO - Season 3, Tribe Boran: 'Jessie' -> 'Jessie Camacho' with image
+2025-04-21 14:11:24,395 - INFO - Season 3, Tribe Boran: 'Diane' -> 'Diane Ogden' with image
+2025-04-21 14:11:24,395 - INFO - Season 4, Tribe Rotu: 'Kathy' -> 'Kathy Vavrick-obrien' with image
+2025-04-21 14:11:24,395 - INFO - Season 4, Tribe Rotu: 'Neleh' -> 'Neleh Dennis' with image
+2025-04-21 14:11:24,395 - INFO - Season 4, Tribe Rotu: 'Paschal' -> 'Paschal English' with image
+2025-04-21 14:11:24,395 - INFO - Season 4, Tribe Rotu: 'Robert' -> 'Robert Decanio' with image
+2025-04-21 14:11:24,396 - INFO - Season 4, Tribe Rotu: 'Tammy' -> 'Tammy Leitner' with image
+2025-04-21 14:11:24,396 - INFO - Season 4, Tribe Rotu: 'Zoe' -> 'Zoe Zanidakis' with image
+2025-04-21 14:11:24,396 - INFO - Season 4, Tribe Rotu: 'John' -> 'John Carroll' with image
+2025-04-21 14:11:24,396 - INFO - Season 4, Tribe Rotu: 'Gabriel' -> 'Gabriel Cade' with image
+2025-04-21 14:11:24,396 - INFO - Season 5, Tribe Chuay Gahn: 'Jan' -> 'Jan Gentry' with image
+2025-04-21 14:11:24,396 - INFO - Season 5, Tribe Chuay Gahn: 'Clay' -> 'Clay Jordan' with image
+2025-04-21 14:11:24,396 - INFO - Season 5, Tribe Chuay Gahn: 'Brian' -> 'Brian Heidik' with image
+2025-04-21 14:11:24,396 - INFO - Season 5, Tribe Chuay Gahn: 'Ted' -> 'Ted Rogers Jr..' with image
+2025-04-21 14:11:24,397 - INFO - Season 5, Tribe Chuay Gahn: 'Helen' -> 'Helen Glover' with image
+2025-04-21 14:11:24,397 - INFO - Season 5, Tribe Chuay Gahn: 'Ghandia' -> 'Ghandia Johnson' with image
+2025-04-21 14:11:24,397 - INFO - Season 5, Tribe Chuay Gahn: 'Tanya' -> 'Tanya Vance' with image
+2025-04-21 14:11:24,397 - INFO - Season 5, Tribe Chuay Gahn: 'John' -> 'John Raymond' with image
+2025-04-21 14:11:24,397 - INFO - Season 6, Tribe Tambaqui: 'Rob' -> 'Rob Cesternino' with image
+2025-04-21 14:11:24,397 - INFO - Season 6, Tribe Tambaqui: 'Matthew' -> 'Matthew Von Ertfelda' with image
+2025-04-21 14:11:24,397 - INFO - Season 6, Tribe Tambaqui: 'Alex' -> 'Alex Bell' with image
+2025-04-21 14:11:24,397 - INFO - Season 6, Tribe Tambaqui: 'Dave' -> 'Dave Johnson' with image
+2025-04-21 14:11:24,398 - INFO - Season 6, Tribe Tambaqui: 'Roger' -> 'Roger Sexton' with image
+2025-04-21 14:11:24,398 - INFO - Season 6, Tribe Tambaqui: 'Daniel' -> 'Daniel Lue' with image
+2025-04-21 14:11:24,398 - INFO - Season 6, Tribe Tambaqui: 'Ryan' -> 'Ryan Aiken' with image
+2025-04-21 14:11:24,398 - INFO - Season 6, Tribe Tambaqui: 'Butch' -> 'Butch Lockley' with image
+2025-04-21 14:11:24,398 - INFO - Season 7, Tribe Drake: 'Sandra' -> 'Sandra Diaz-twine' with image
+2025-04-21 14:11:24,398 - INFO - Season 7, Tribe Drake: 'Jon' -> 'Jon Dalton' with image
+2025-04-21 14:11:24,398 - INFO - Season 7, Tribe Drake: 'Rupert' -> 'Rupert Boneham' with image
+2025-04-21 14:11:24,398 - INFO - Season 7, Tribe Drake: 'Christa' -> 'Christa Hastie' with image
+2025-04-21 14:11:24,398 - INFO - Season 7, Tribe Drake: 'Burton' -> 'Burton Roberts' with image
+2025-04-21 14:11:24,399 - INFO - Season 7, Tribe Drake: 'Michelle' -> 'Michelle Tesauro' with image
+2025-04-21 14:11:24,399 - INFO - Season 7, Tribe Drake: 'Trish' -> 'Trish Dunn' with image
+2025-04-21 14:11:24,399 - INFO - Season 7, Tribe Drake: 'Shawn' -> 'Shawn Cohen' with image
+2025-04-21 14:11:24,399 - INFO - Season 8, Tribe Chapera: 'Amber' -> 'Amber Brkich' with image
+2025-04-21 14:11:24,399 - INFO - Season 8, Tribe Chapera: 'Alicia' -> 'Alicia Calaway' with image
+2025-04-21 14:11:24,400 - INFO - Season 8, Tribe Chapera: 'Tom' -> 'Tom Buchanan' with image
+2025-04-21 14:11:24,400 - INFO - Season 9, Tribe Lopevi: 'Chris' -> 'Chris Daugherty' with image
+2025-04-21 14:11:24,401 - INFO - Season 9, Tribe Lopevi: 'Chad' -> 'Chad Crittenden' with image
+2025-04-21 14:11:24,401 - INFO - Season 9, Tribe Lopevi: 'Rory' -> 'Rory Freeman' with image
+2025-04-21 14:11:24,401 - INFO - Season 9, Tribe Lopevi: 'Lea' -> 'Lea Masters' with image
+2025-04-21 14:11:24,401 - INFO - Season 9, Tribe Lopevi: 'Brady' -> 'Brady Finta' with image
+2025-04-21 14:11:24,401 - INFO - Season 9, Tribe Lopevi: 'Brook' -> 'Brook Geraghty' with image
+2025-04-21 14:11:24,402 - INFO - Season 10, Tribe Koror: 'Tom' -> 'Tom Westman' with image
+2025-04-21 14:11:24,402 - INFO - Season 10, Tribe Koror: 'Katie' -> 'Katie Gallagher' with image
+2025-04-21 14:11:24,402 - INFO - Season 10, Tribe Koror: 'Ian' -> 'Ian Rosenberger' with image
+2025-04-21 14:11:24,402 - INFO - Season 10, Tribe Koror: 'Jenn' -> 'Jenn Lyon' with image
+2025-04-21 14:11:24,402 - INFO - Season 10, Tribe Koror: 'Gregg' -> 'Gregg Carey' with image
+2025-04-21 14:11:24,402 - INFO - Season 10, Tribe Koror: 'Caryn' -> 'Caryn Groedel' with image
+2025-04-21 14:11:24,403 - INFO - Season 10, Tribe Koror: 'Janu' -> 'Janu Tornell' with image
+2025-04-21 14:11:24,403 - INFO - Season 10, Tribe Koror: 'Coby' -> 'Coby Archa' with image
+2025-04-21 14:11:24,403 - INFO - Season 10, Tribe Koror: 'Willard' -> 'Willard Smith' with image
+2025-04-21 14:11:24,403 - INFO - Season 11, Tribe Nakúm: 'Danni' -> 'Danni Boatwright' with image
+2025-04-21 14:11:24,403 - INFO - Season 11, Tribe Nakúm: 'Judd' -> 'Judd Sergeant' with image
+2025-04-21 14:11:24,403 - INFO - Season 11, Tribe Nakúm: 'Margaret' -> 'Margaret Bobonich' with image
+2025-04-21 14:11:24,403 - INFO - Season 11, Tribe Nakúm: 'Brooke' -> 'Brooke Struck' with image
+2025-04-21 14:11:24,404 - INFO - Season 11, Tribe Nakúm: 'Cindy' -> 'Cindy Hall' with image
+2025-04-21 14:11:24,404 - INFO - Season 11, Tribe Nakúm: 'Jim' -> 'Jim Lynch' with image
+2025-04-21 14:11:24,404 - INFO - Season 11, Tribe Nakúm: 'Brandon' -> 'Brandon Bellinger' with image
+2025-04-21 14:11:24,404 - INFO - Season 11, Tribe Nakúm: 'Blake' -> 'Blake Towsley' with image
+2025-04-21 14:11:24,404 - INFO - Season 12, Tribe Casaya: 'Aras' -> 'Aras Baskauskas' with image
+2025-04-21 14:11:24,404 - INFO - Season 12, Tribe Casaya: 'Danielle' -> 'Danielle Dilorenzo' with image
+2025-04-21 14:11:24,404 - INFO - Season 12, Tribe Casaya: 'Cirie' -> 'Cirie Fields' with image
+2025-04-21 14:11:24,404 - INFO - Season 12, Tribe Casaya: 'Shane' -> 'Shane Powers' with image
+2025-04-21 14:11:24,405 - INFO - Season 12, Tribe Casaya: 'Courtney' -> 'Courtney Marit' with image
+2025-04-21 14:11:24,405 - INFO - Season 12, Tribe Casaya: 'Bruce' -> 'Bruce Kanegai' with image
+2025-04-21 14:11:24,405 - INFO - Season 12, Tribe Casaya: 'Bobby' -> 'Bobby Mason' with image
+2025-04-21 14:11:24,405 - INFO - Season 13, Tribe Aitutaki: 'Ozzy' -> 'Ozzy Lusth' with image
+2025-04-21 14:11:24,405 - INFO - Season 13, Tribe Aitutaki: 'Sundra' -> 'Sundra Oakley' with image
+2025-04-21 14:11:24,405 - INFO - Season 13, Tribe Aitutaki: 'Becky' -> 'Becky Lee' with image
+2025-04-21 14:11:24,405 - INFO - Season 13, Tribe Aitutaki: 'Jessica' -> 'Jessica Smith' with image
+2025-04-21 14:11:24,405 - INFO - Season 13, Tribe Aitutaki: 'Cecilia' -> 'Cecilia Mansilla' with image
+2025-04-21 14:11:24,406 - INFO - Season 14, Tribe Moto: 'Earl' -> 'Earl Cole' with image
+2025-04-21 14:11:24,406 - INFO - Season 14, Tribe Moto: 'Alex' -> 'Alex Angarita' with image
+2025-04-21 14:11:24,406 - INFO - Season 14, Tribe Moto: 'Edgardo' -> 'Edgardo Rivera' with image
+2025-04-21 14:11:24,406 - INFO - Season 14, Tribe Moto: 'Boo' -> 'Boo Bernis' with image
+2025-04-21 14:11:24,406 - INFO - Season 14, Tribe Moto: 'Stacy' -> 'Stacy Kimball' with image
+2025-04-21 14:11:24,406 - INFO - Season 14, Tribe Moto: 'Cassandra' -> 'Cassandra Franklin' with image
+2025-04-21 14:11:24,406 - INFO - Season 14, Tribe Moto: 'Lisi' -> 'Lisi Linares' with image
+2025-04-21 14:11:24,407 - INFO - Season 15, Tribe Fei Long: 'Todd' -> 'Todd Herzog' with image
+2025-04-21 14:11:24,407 - INFO - Season 15, Tribe Fei Long: 'Courtney' -> 'Courtney Yates' with image
+2025-04-21 14:11:24,407 - INFO - Season 15, Tribe Fei Long: 'Amanda' -> 'Amanda Kimmel' with image
+2025-04-21 14:11:24,407 - INFO - Season 15, Tribe Fei Long: 'Denise' -> 'Denise Martin' with image
+2025-04-21 14:11:24,407 - INFO - Season 15, Tribe Fei Long: 'James' -> 'James Clement' with image
+2025-04-21 14:11:24,407 - INFO - Season 15, Tribe Fei Long: 'Aaron' -> 'Aaron Reisberger' with image
+2025-04-21 14:11:24,407 - INFO - Season 15, Tribe Fei Long: 'Leslie' -> 'Leslie Nease' with image
+2025-04-21 14:11:24,407 - INFO - Season 16, Tribe Airai: 'Erik' -> 'Erik Reichenbach' with image
+2025-04-21 14:11:24,408 - INFO - Season 16, Tribe Airai: 'Natalie' -> 'Natalie Bolton' with image
+2025-04-21 14:11:24,408 - INFO - Season 16, Tribe Airai: 'Jason' -> 'Jason Siska' with image
+2025-04-21 14:11:24,408 - INFO - Season 16, Tribe Airai: 'Alexis' -> 'Alexis Jones' with image
+2025-04-21 14:11:24,408 - INFO - Season 16, Tribe Airai: 'Kathy' -> 'Kathy Sleckman' with image
+2025-04-21 14:11:24,408 - INFO - Season 16, Tribe Airai: 'Chet' -> 'Chet Welch' with image
+2025-04-21 14:11:24,408 - INFO - Season 16, Tribe Airai: 'Tracy' -> 'Tracy Hughes-wolf' with image
+2025-04-21 14:11:24,408 - INFO - Season 16, Tribe Airai: 'Mary' -> 'Mary Sartain' with image
+2025-04-21 14:11:24,408 - INFO - Season 16, Tribe Airai: 'Joel' -> 'Joel Anderson' with image
+2025-04-21 14:11:24,408 - INFO - Season 17, Tribe Fang: 'Ken' -> 'Ken Hoang' with image
+2025-04-21 14:11:24,409 - INFO - Season 17, Tribe Fang: 'Crystal' -> 'Crystal Cox' with image
+2025-04-21 14:11:24,409 - INFO - Season 17, Tribe Fang: 'Matty' -> 'Matty Whitmore' with image
+2025-04-21 14:11:24,409 - INFO - Season 17, Tribe Fang: 'Susie' -> 'Susie Smith' with image
+2025-04-21 14:11:24,409 - INFO - Season 17, Tribe Fang: 'Randy' -> 'Randy Bailey' with image
+2025-04-21 14:11:24,409 - INFO - Season 17, Tribe Fang: 'GC' -> 'Gc Brown' with image
+2025-04-21 14:11:24,409 - INFO - Season 17, Tribe Fang: 'Gillian' -> 'Gillian Larson' with image
+2025-04-21 14:11:24,409 - INFO - Season 17, Tribe Fang: 'Michelle' -> 'Michelle Chase' with image
+2025-04-21 14:11:24,410 - INFO - Season 18, Tribe Jalapao: 'Stephen' -> 'Stephen Fishbach' with image
+2025-04-21 14:11:24,410 - INFO - Season 18, Tribe Jalapao: 'Taj' -> 'Taj Johnson-george' with image
+2025-04-21 14:11:24,410 - INFO - Season 18, Tribe Jalapao: 'Joe' -> 'Joe Dowdle' with image
+2025-04-21 14:11:24,410 - INFO - Season 18, Tribe Jalapao: 'Sydney' -> 'Sydney Wheeler' with image
+2025-04-21 14:11:24,410 - INFO - Season 18, Tribe Jalapao: 'Spencer' -> 'Spencer Duhm' with image
+2025-04-21 14:11:24,410 - INFO - Season 18, Tribe Jalapao: 'Sandy' -> 'Sandy Burgin' with image
+2025-04-21 14:11:24,411 - INFO - Season 18, Tribe Jalapao: 'Carolina' -> 'Carolina Eastwood' with image
+2025-04-21 14:11:24,411 - INFO - Season 19, Tribe Foa Foa: 'Natalie' -> 'Natalie White' with image
+2025-04-21 14:11:24,411 - INFO - Season 19, Tribe Foa Foa: 'Mick' -> 'Mick Trimming' with image
+2025-04-21 14:11:24,411 - INFO - Season 19, Tribe Foa Foa: 'Jaison' -> 'Jaison Robinson' with image
+2025-04-21 14:11:24,411 - INFO - Season 19, Tribe Foa Foa: 'Brett' -> 'Brett Clouser' with image
+2025-04-21 14:11:24,411 - INFO - Season 19, Tribe Foa Foa: 'Betsy' -> 'Betsy Bolan' with image
+2025-04-21 14:11:24,411 - INFO - Season 19, Tribe Foa Foa: 'Ashley' -> 'Ashley Trainer' with image
+2025-04-21 14:11:24,411 - INFO - Season 19, Tribe Foa Foa: 'Mike' -> 'Mike Borassi' with image
+2025-04-21 14:11:24,412 - INFO - Season 19, Tribe Foa Foa: 'Marisa' -> 'Marisa Calihan' with image
+2025-04-21 14:11:24,412 - INFO - Season 19, Tribe Foa Foa: 'Ben' -> 'Ben Browning' with image
+2025-04-21 14:11:24,412 - INFO - Season 20, Tribe Heroes: 'Rupert' -> 'Rupert Boneham' with image
+2025-04-21 14:11:24,412 - INFO - Season 20, Tribe Heroes: 'Colby' -> 'Colby Donaldson' with image
+2025-04-21 14:11:24,412 - INFO - Season 20, Tribe Heroes: 'James' -> 'James Clement' with image
+2025-04-21 14:11:24,412 - INFO - Season 20, Tribe Heroes: 'Tom' -> 'Tom Westman' with image
+2025-04-21 14:11:24,412 - INFO - Season 20, Tribe Heroes: 'Stephenie' -> 'Stephenie Lagrossa' with image
+2025-04-21 14:11:24,412 - INFO - Season 20, Tribe Heroes: 'Amanda' -> 'Amanda Kimmel' with image
+2025-04-21 14:11:24,412 - INFO - Season 20, Tribe Heroes: 'Cirie' -> 'Cirie Fields' with image
+2025-04-21 14:11:24,413 - INFO - Season 20, Tribe Heroes: 'Candice' -> 'Candice Woodcock' with image
+2025-04-21 14:11:24,413 - INFO - Season 20, Tribe Heroes: 'Sugar' -> 'Sugar Kiper' with image
+2025-04-21 14:11:24,413 - INFO - Season 25, Tribe Matsing: 'Malcolm' -> 'Malcolm Freberg' with image
+2025-04-21 14:11:24,413 - INFO - Season 25, Tribe Matsing: 'Denise' -> 'Denise Stapley' with image
+2025-04-21 14:11:24,413 - INFO - Season 25, Tribe Matsing: 'Russell' -> 'Russell Swan' with image
+2025-04-21 14:11:24,413 - INFO - Season 25, Tribe Matsing: 'Angie' -> 'Angie Layton' with image
+2025-04-21 14:11:24,413 - INFO - Season 25, Tribe Matsing: 'Roxy' -> 'Roxy Morris' with image
+2025-04-21 14:11:24,413 - INFO - Season 25, Tribe Matsing: 'Zane' -> 'Zane Knight' with image
+2025-04-21 14:11:24,413 - INFO - Season 26, Tribe Gota: 'Sherri' -> 'Sherri Biethman' with image
+2025-04-21 14:11:24,414 - INFO - Season 26, Tribe Gota: 'Eddie' -> 'Eddie Fox' with image
+2025-04-21 14:11:24,414 - INFO - Season 26, Tribe Gota: 'Reynold' -> 'Reynold Toepfer' with image
+2025-04-21 14:11:24,414 - INFO - Season 26, Tribe Gota: 'Michael' -> 'Michael Snow' with image
+2025-04-21 14:11:24,414 - INFO - Season 26, Tribe Gota: 'Matt' -> 'Matt Bischoff' with image
+2025-04-21 14:11:24,414 - INFO - Season 26, Tribe Gota: 'Hope' -> 'Hope Driskill' with image
+2025-04-21 14:11:24,414 - INFO - Season 26, Tribe Gota: 'Allie' -> 'Allie Pohevitz' with image
+2025-04-21 14:11:24,414 - INFO - Season 26, Tribe Gota: 'Laura' -> 'Laura Alexander' with image
+2025-04-21 14:11:24,414 - INFO - Season 26, Tribe Gota: 'Julia' -> 'Julia Landauer' with image
+2025-04-21 14:11:24,414 - INFO - Season 26, Tribe Gota: 'Shamar' -> 'Shamar Thomas' with image
+2025-04-21 14:11:24,415 - INFO - Season 27, Tribe Galang: 'Tyson' -> 'Tyson Apostol' with image
+2025-04-21 14:11:24,415 - INFO - Season 27, Tribe Galang: 'Gervase' -> 'Gervase Peterson' with image
+2025-04-21 14:11:24,415 - INFO - Season 27, Tribe Galang: 'Monica' -> 'Monica Culpepper' with image
+2025-04-21 14:11:24,415 - INFO - Season 27, Tribe Galang: 'Aras' -> 'Aras Baskauskas' with image
+2025-04-21 14:11:24,415 - INFO - Season 27, Tribe Galang: 'Kat' -> 'Kat Edorsson' with image
+2025-04-21 14:11:24,416 - INFO - Season 27, Tribe Galang: 'Tina' -> 'Tina Wesson' with image
+2025-04-21 14:11:24,417 - INFO - Season 27, Tribe Galang: 'Rupert' -> 'Rupert Boneham' with image
+2025-04-21 14:11:24,417 - INFO - Season 27, Tribe Galang: 'Colton' -> 'Colton Cumbie' with image
+2025-04-21 14:11:24,417 - INFO - Season 28, Tribe Luzon (Brains): 'Spencer' -> 'Spencer Bledsoe' with image
+2025-04-21 14:11:24,417 - INFO - Season 28, Tribe Luzon (Brains): 'Kass' -> 'Kass Mcquillen' with image
+2025-04-21 14:11:24,418 - INFO - Season 28, Tribe Luzon (Brains): 'Tasha' -> 'Tasha Fox' with image
+2025-04-21 14:11:24,418 - INFO - Season 28, Tribe Luzon (Brains): 'J'Tia' -> 'Jtia Taylor' with image
+2025-04-21 14:11:24,418 - INFO - Season 28, Tribe Luzon (Brains): 'Garrett' -> 'Garrett Adelstein' with image
+2025-04-21 14:11:24,419 - INFO - Season 28, Tribe Luzon (Brains): 'David' -> 'David Samson' with image
+2025-04-21 14:11:24,419 - INFO - Season 29, Tribe Hunahpu: 'Natalie' -> 'Natalie Anderson' with image
+2025-04-21 14:11:24,419 - INFO - Season 29, Tribe Hunahpu: 'Keith' -> 'Keith Nale' with image
+2025-04-21 14:11:24,419 - INFO - Season 29, Tribe Hunahpu: 'Missy' -> 'Missy Payne' with image
+2025-04-21 14:11:24,419 - INFO - Season 29, Tribe Hunahpu: 'Jon' -> 'Jon Misch' with image
+2025-04-21 14:11:24,419 - INFO - Season 29, Tribe Hunahpu: 'Julie' -> 'Julie Mcgee' with image
+2025-04-21 14:11:24,420 - INFO - Season 29, Tribe Hunahpu: 'Reed' -> 'Reed Kelly' with image
+2025-04-21 14:11:24,420 - INFO - Season 29, Tribe Hunahpu: 'Drew' -> 'Drew Christy' with image
+2025-04-21 14:11:24,420 - INFO - Season 29, Tribe Hunahpu: 'Jeremy' -> 'Jeremy Collins' with image
+2025-04-21 14:11:24,420 - INFO - Season 29, Tribe Hunahpu: 'Kelley' -> 'Kelley Wentworth' with image
+2025-04-21 14:11:24,420 - INFO - Season 29, Tribe Hunahpu: 'Val' -> 'Val Collins' with image
+2025-04-21 14:11:24,421 - INFO - Season 30, Tribe Masaya (White Collar): 'Carolyn' -> 'Carolyn Rivera' with image
+2025-04-21 14:11:24,421 - INFO - Season 30, Tribe Masaya (White Collar): 'Tyler' -> 'Tyler Fredrickson' with image
+2025-04-21 14:11:24,421 - INFO - Season 30, Tribe Masaya (White Collar): 'Max' -> 'Max Dawson' with image
+2025-04-21 14:11:24,421 - INFO - Season 30, Tribe Masaya (White Collar): 'Shirin' -> 'Shirin Oskooi' with image
+2025-04-21 14:11:24,421 - INFO - Season 30, Tribe Masaya (White Collar): 'Joaquin' -> 'Joaquin Souberbielle' with image
+2025-04-21 14:11:24,421 - INFO - Season 30, Tribe Masaya (White Collar): 'So' -> 'So Kim' with image
+2025-04-21 14:11:24,422 - INFO - Season 31, Tribe Bayon: 'Jeremy' -> 'Jeremy Collins' with image
+2025-04-21 14:11:24,422 - INFO - Season 31, Tribe Bayon: 'Tasha' -> 'Tasha Fox' with image
+2025-04-21 14:11:24,422 - INFO - Season 31, Tribe Bayon: 'Kimmi' -> 'Kimmi Kappenberg' with image
+2025-04-21 14:11:24,422 - INFO - Season 31, Tribe Bayon: 'Joe' -> 'Joe Anglim' with image
+2025-04-21 14:11:24,422 - INFO - Season 31, Tribe Bayon: 'Keith' -> 'Keith Nale' with image
+2025-04-21 14:11:24,422 - INFO - Season 31, Tribe Bayon: 'Monica' -> 'Monica Padilla' with image
+2025-04-21 14:11:24,423 - INFO - Season 31, Tribe Bayon: 'Stephen' -> 'Stephen Fishbach' with image
+2025-04-21 14:11:24,423 - INFO - Season 31, Tribe Bayon: 'Ciera' -> 'Ciera Eastin' with image
+2025-04-21 14:11:24,423 - INFO - Season 31, Tribe Bayon: 'Kass' -> 'Kass Mcquillen' with image
+2025-04-21 14:11:24,423 - INFO - Season 31, Tribe Bayon: 'Spencer' -> 'Spencer Bledsoe' with image
+2025-04-21 14:11:24,423 - INFO - Season 32, Tribe Chan Loh (Brains): 'Aubry' -> 'Aubry Bracco' with image
+2025-04-21 14:11:24,423 - INFO - Season 32, Tribe Chan Loh (Brains): 'Joe' -> 'Joe Del Campo' with image
+2025-04-21 14:11:24,423 - INFO - Season 32, Tribe Chan Loh (Brains): 'Debbie' -> 'Debbie Wanner' with image
+2025-04-21 14:11:24,423 - INFO - Season 32, Tribe Chan Loh (Brains): 'Neal' -> 'Neal Gottlieb' with image
+2025-04-21 14:11:24,424 - INFO - Season 32, Tribe Chan Loh (Brains): 'Peter' -> 'Peter Baggenstos' with image
+2025-04-21 14:11:24,424 - INFO - Season 32, Tribe Chan Loh (Brains): 'Liz' -> 'Liz Markham' with image
+2025-04-21 14:11:24,424 - INFO - Season 33, Tribe Vanua (Millennials): 'Adam' -> 'Adam Klein' with image
+2025-04-21 14:11:24,424 - INFO - Season 33, Tribe Vanua (Millennials): 'Hannah' -> 'Hannah Shapiro' with image
+2025-04-21 14:11:24,424 - INFO - Season 33, Tribe Vanua (Millennials): 'Jay' -> 'Jay Starrett' with image
+2025-04-21 14:11:24,424 - INFO - Season 33, Tribe Vanua (Millennials): 'Will' -> 'Will Wahl' with image
+2025-04-21 14:11:24,424 - INFO - Season 33, Tribe Vanua (Millennials): 'Michaela' -> 'Michaela Bradshaw' with image
+2025-04-21 14:11:24,424 - INFO - Season 33, Tribe Vanua (Millennials): 'Zeke' -> 'Zeke Smith' with image
+2025-04-21 14:11:24,425 - INFO - Season 33, Tribe Vanua (Millennials): 'Mari' -> 'Mari Takahashi' with image
+2025-04-21 14:11:24,425 - INFO - Season 33, Tribe Vanua (Millennials): 'Figgy' -> 'Figgy Figueroa' with image
+2025-04-21 14:11:24,425 - INFO - Season 33, Tribe Vanua (Millennials): 'Michelle' -> 'Michelle Schubert' with image
+2025-04-21 14:11:24,425 - INFO - Season 33, Tribe Vanua (Millennials): 'Taylor' -> 'Taylor Stocker' with image
+2025-04-21 14:11:24,425 - INFO - Season 34, Tribe Nuku: 'Sarah' -> 'Sarah Lacina' with image
+2025-04-21 14:11:24,425 - INFO - Season 34, Tribe Nuku: 'Brad' -> 'Brad Culpepper' with image
+2025-04-21 14:11:24,425 - INFO - Season 34, Tribe Nuku: 'Sierra' -> 'Sierra Dawn Thomas' with image
+2025-04-21 14:11:24,425 - INFO - Season 34, Tribe Nuku: 'Tai' -> 'Tai Trang' with image
+2025-04-21 14:11:24,426 - INFO - Season 34, Tribe Nuku: 'Malcolm' -> 'Malcolm Freberg' with image
+2025-04-21 14:11:24,426 - INFO - Season 34, Tribe Nuku: 'Aubry' -> 'Aubry Bracco' with image
+2025-04-21 14:11:24,426 - INFO - Season 34, Tribe Nuku: 'Sandra' -> 'Sandra Diaz-twine' with image
+2025-04-21 14:11:24,426 - INFO - Season 34, Tribe Nuku: 'Jeff' -> 'Jeff Varner' with image
+2025-04-21 14:11:24,426 - INFO - Season 35, Tribe Levu (Heroes): 'Ben' -> 'Ben Driebergen' with image
+2025-04-21 14:11:24,426 - INFO - Season 35, Tribe Levu (Heroes): 'Chrissy' -> 'Chrissy Hofbeck' with image
+2025-04-21 14:11:24,426 - INFO - Season 35, Tribe Levu (Heroes): 'JP' -> 'Jp Hilsabeck' with image
+2025-04-21 14:11:24,426 - INFO - Season 35, Tribe Levu (Heroes): 'Ashley' -> 'Ashley Nolan' with image
+2025-04-21 14:11:24,427 - INFO - Season 35, Tribe Levu (Heroes): 'Alan' -> 'Alan Ball' with image
+2025-04-21 14:11:24,427 - INFO - Season 35, Tribe Levu (Heroes): 'Katrina' -> 'Katrina Radke' with image
+2025-04-21 14:11:24,427 - INFO - Season 36, Tribe Naviti: 'Wendell' -> 'Wendell Holland' with image
+2025-04-21 14:11:24,427 - INFO - Season 36, Tribe Naviti: 'Domenick' -> 'Domenick Abbate' with image
+2025-04-21 14:11:24,427 - INFO - Season 36, Tribe Naviti: 'Kellyn' -> 'Kellyn Bechtold' with image
+2025-04-21 14:11:24,427 - INFO - Season 36, Tribe Naviti: 'Chelsea' -> 'Chelsea Townsend' with image
+2025-04-21 14:11:24,427 - INFO - Season 36, Tribe Naviti: 'Sebastian' -> 'Sebastian Noel' with image
+2025-04-21 14:11:24,427 - INFO - Season 36, Tribe Naviti: 'Desiree' -> 'Desiree Afuye' with image
+2025-04-21 14:11:24,428 - INFO - Season 36, Tribe Naviti: 'Bradley' -> 'Bradley Kleihege' with image
+2025-04-21 14:11:24,428 - INFO - Season 36, Tribe Naviti: 'Angela' -> 'Angela Perkins' with image
+2025-04-21 14:11:24,428 - INFO - Season 36, Tribe Naviti: 'Chris' -> 'Chris Noble' with image
+2025-04-21 14:11:24,428 - INFO - Season 36, Tribe Naviti: 'Morgan' -> 'Morgan Ricke' with image
+2025-04-21 14:11:24,428 - INFO - Season 37, Tribe David: 'Nick' -> 'Nick Wilson' with image
+2025-04-21 14:11:24,428 - INFO - Season 37, Tribe David: 'Mike' -> 'Mike White' with image
+2025-04-21 14:11:24,428 - INFO - Season 37, Tribe David: 'Davie' -> 'Davie Rickenbacker' with image
+2025-04-21 14:11:24,428 - INFO - Season 37, Tribe David: 'Christian' -> 'Christian Hubicki' with image
+2025-04-21 14:11:24,428 - INFO - Season 37, Tribe David: 'Gabby' -> 'Gabby Pascuzzi' with image
+2025-04-21 14:11:24,429 - INFO - Season 37, Tribe David: 'Carl' -> 'Carl Boudreaux' with image
+2025-04-21 14:11:24,429 - INFO - Season 37, Tribe David: 'Elizabeth' -> 'Elizabeth Olson' with image
+2025-04-21 14:11:24,429 - INFO - Season 37, Tribe David: 'Bi' -> 'Bi Nguyen' with image
+2025-04-21 14:11:24,429 - INFO - Season 37, Tribe David: 'Jessica' -> 'Jessica Peet' with image
+2025-04-21 14:11:24,429 - INFO - Season 37, Tribe David: 'Pat' -> 'Pat Cusack' with image
+2025-04-21 14:11:24,430 - INFO - Updated 254 contestant names and 254 image paths in src/data/tribeData.js
+2025-04-21 14:11:24,430 - INFO - Done!

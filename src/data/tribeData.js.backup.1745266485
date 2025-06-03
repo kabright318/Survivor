@@ -1,0 +1,540 @@
+import { colors } from './colors';
+
+// Define the tribe data structure for all Survivor seasons
+export const tribeData = {
+  1: { // Borneo
+    tribes: [
+      {
+        name: "Tagi",
+        color: colors.forestGreen,
+        members: ["Richard", "Kelly", "Rudy", "Sue", "Sean", "Dirk", "Sonja", "Stacey"]
+      },
+      {
+        name: "Pagong",
+        color: colors.warmOrange,
+        members: ["Gretchen", "Greg", "Colleen", "Jenna", "Gervase", "Joel", "B.B.", "Ramona"]
+      }
+    ]
+  },
+  2: { // Australian Outback
+    tribes: [
+      {
+        name: "Kucha",
+        color: colors.seafoamBlue,
+        members: ["Michael", "Elisabeth", "Rodger", "Nick", "Alicia", "Jeff", "Kimmi", "Debb"]
+      },
+      {
+        name: "Ogakor",
+        color: colors.cherryRed,
+        members: ["Tina", "Colby", "Keith", "Jerri", "Amber", "Mitchell", "Maralyn", "Kel"]
+      }
+    ]
+  },
+  3: { // Africa
+    tribes: [
+      {
+        name: "Boran",
+        color: colors.warmOrange,
+        members: ["Ethan", "Kim", "Lex", "Tom", "Clarence", "Jessie", "Diane"]
+      },
+      {
+        name: "Samburu",
+        color: colors.seafoamBlue,
+        members: ["Teresa", "Frank", "Brandon", "Kelly", "Silas", "Linda", "Carl", "Lindsey"]
+      }
+    ]
+  },
+  4: { // Marquesas
+    tribes: [
+      {
+        name: "Rotu",
+        color: colors.arugalaGreen,
+        members: ["Kathy", "Neleh", "Paschal", "Robert", "Tammy", "Zoe", "John", "Gabriel"]
+      },
+      {
+        name: "Maraamu",
+        color: colors.warmOrange,
+        members: ["Sean", "Vecepia", "Rob", "Sarah", "Hunter", "Patricia", "Peter", "Gina"]
+      }
+    ]
+  },
+  5: { // Thailand
+    tribes: [
+      {
+        name: "Chuay Gahn",
+        color: colors.cherryRed,
+        members: ["Jan", "Clay", "Brian", "Ted", "Helen", "Ghandia", "Tanya", "John"]
+      },
+      {
+        name: "Sook Jai",
+        color: colors.arugalaGreen,
+        members: ["Jake", "Penny", "Erin", "Ken", "Shii Ann", "Robb", "Stephanie", "Jed"]
+      }
+    ]
+  },
+  6: { // Amazon
+    tribes: [
+      {
+        name: "Tambaqui",
+        color: colors.forestGreen,
+        members: ["Rob", "Matthew", "Alex", "Dave", "Roger", "Daniel", "Ryan", "Butch"]
+      },
+      {
+        name: "Jaburu",
+        color: colors.blushPink,
+        members: ["Jenna", "Heidi", "Deena", "Shawna", "Christy", "Joanna", "Janet", "Jeanne"]
+      }
+    ]
+  },
+  7: { // Pearl Islands
+    tribes: [
+      {
+        name: "Drake",
+        color: colors.forestGreen,
+        members: ["Sandra", "Jon", "Rupert", "Christa", "Burton", "Michelle", "Trish", "Shawn"]
+      },
+      {
+        name: "Morgan",
+        color: colors.cherryRed,
+        members: ["Lillian", "Darrah", "Tijuana", "Ryan O.", "Andrew", "Osten", "Nicole", "Ryan S."]
+      }
+    ]
+  },
+  8: { // All-Stars
+    tribes: [
+      {
+        name: "Chapera",
+        color: colors.cherryRed,
+        members: ["Rob M.", "Amber", "Alicia", "Tom", "Sue", "Rob C."]
+      },
+      {
+        name: "Saboga",
+        color: colors.warmOrange,
+        members: ["Rupert", "Jenna L.", "Jerri", "Ethan", "Tina", "Rudy"]
+      },
+      {
+        name: "Mogo Mogo",
+        color: colors.forestGreen,
+        members: ["Kathy", "Shii Ann", "Lex", "Colby", "Richard", "Jenna M."]
+      }
+    ]
+  },
+  9: { // Vanuatu
+    tribes: [
+      {
+        name: "Lopevi",
+        color: colors.cherryRed,
+        members: ["Chris", "Sarge", "Chad", "Rory", "Lea", "John P.", "Brady", "Brook", "John K."]
+      },
+      {
+        name: "Yasur",
+        color: colors.warmOrange,
+        members: ["Twila", "Scout", "Eliza", "Julie", "Leann", "Ami", "Lisa", "Mia", "Dolly"]
+      }
+    ]
+  },
+  10: { // Palau
+    tribes: [
+      {
+        name: "Koror",
+        color: colors.forestGreen,
+        members: ["Tom", "Katie", "Ian", "Jenn", "Gregg", "Caryn", "Janu", "Coby", "Willard"]
+      },
+      {
+        name: "Ulong",
+        color: colors.seafoamBlue,
+        members: ["Stephenie", "Bobby Jon", "James", "Ibrehem", "Angie", "Ashlee", "Jeff", "Kim", "Jolanda"]
+      }
+    ]
+  },
+  11: { // Guatemala
+    tribes: [
+      {
+        name: "Nakúm",
+        color: colors.warmOrange,
+        members: ["Danni", "Judd", "Margaret", "Brooke", "Cindy", "Jim", "Brandon", "Bobby Jon", "Blake"]
+      },
+      {
+        name: "Yaxhá",
+        color: colors.arugalaGreen,
+        members: ["Rafe", "Stephenie", "Gary", "Amy", "Brian", "Jamie", "Lydia", "Morgan", "Brianna"]
+      }
+    ]
+  },
+  12: { // Panama
+    tribes: [
+      {
+        name: "Casaya",
+        color: colors.cherryRed,
+        members: ["Aras", "Danielle", "Cirie", "Shane", "Courtney", "Bruce", "Bobby"]
+      },
+      {
+        name: "La Mina",
+        color: colors.seafoamBlue,
+        members: ["Terry", "Sally", "Austin", "Nick", "Dan", "Ruth-Marie", "Misty"]
+      },
+      {
+        name: "Bayoneta",
+        color: colors.blushPink,
+        members: ["Danielle", "Courtney", "Ruth-Marie", "Melinda"]
+      },
+      {
+        name: "Viveros",
+        color: colors.forestGreen,
+        members: ["Aras", "Shane", "Nick", "Bobby"]
+      }
+    ]
+  },
+  13: { // Cook Islands
+    tribes: [
+      {
+        name: "Aitutaki",
+        color: colors.cherryRed,
+        members: ["Ozzy", "Sundra", "Becky", "Cao Boi", "Jessica", "Cecilia"]
+      },
+      {
+        name: "Rarotonga",
+        color: colors.arugalaGreen,
+        members: ["Adam", "Parvati", "Nate", "Jenny", "Rebecca", "Cristina"]
+      },
+      {
+        name: "Puka Puka",
+        color: colors.warmOrange,
+        members: ["Yul", "Candice", "Becky", "Jonathan", "Sekou"]
+      },
+      {
+        name: "Manihiki",
+        color: colors.seafoamBlue,
+        members: ["Brad", "J.P.", "Stephannie", "Sundra", "Billy"]
+      }
+    ]
+  },
+  14: { // Fiji
+    tribes: [
+      {
+        name: "Moto",
+        color: colors.arugalaGreen,
+        members: ["Earl", "Yau-Man", "Alex", "Edgardo", "Boo", "Stacy", "Cassandra", "Lisi", "Dre"]
+      },
+      {
+        name: "Ravu",
+        color: colors.cherryRed,
+        members: ["Michelle", "Rocky", "Anthony", "Mookie", "Rita", "Sylvia", "Jessica", "Erica", "Gary"]
+      }
+    ]
+  },
+  15: { // China
+    tribes: [
+      {
+        name: "Fei Long",
+        color: colors.cherryRed,
+        members: ["Todd", "Courtney", "Amanda", "Denise", "James", "Jean-Robert", "Aaron", "Leslie"]
+      },
+      {
+        name: "Zhan Hu",
+        color: colors.warmOrange,
+        members: ["Peih-Gee", "Erik", "Jaime", "Sherea", "Dave", "Frosti", "Ashley", "Chicken"]
+      }
+    ]
+  },
+  16: { // Micronesia - Fans vs. Favorites
+    tribes: [
+      {
+        name: "Airai",
+        color: colors.cherryRed,
+        members: ["Erik", "Natalie", "Jason", "Alexis", "Kathy", "Chet", "Tracy", "Mikey B", "Mary", "Joel"]
+      },
+      {
+        name: "Malakal",
+        color: colors.arugalaGreen,
+        members: ["Parvati", "Amanda", "Cirie", "Ozzy", "James", "Jonathan", "Ami", "Eliza", "Yau-Man", "Jon"]
+      }
+    ]
+  },
+  17: { // Gabon
+    tribes: [
+      {
+        name: "Fang",
+        color: colors.cherryRed,
+        members: ["Ken", "Crystal", "Matty", "Susie", "Randy", "GC", "Gillian", "Michelle"]
+      },
+      {
+        name: "Kota",
+        color: colors.arugalaGreen,
+        members: ["Bob", "Sugar", "Corinne", "Charlie", "Marcus", "Jacquie", "Kelly", "Paloma", "Ace"]
+      }
+    ]
+  },
+  18: { // Tocantins
+    tribes: [
+      {
+        name: "Jalapao",
+        color: colors.cherryRed,
+        members: ["JT", "Stephen", "Taj", "Joe", "Sydney", "Spencer", "Sandy", "Carolina"]
+      },
+      {
+        name: "Timbira",
+        color: colors.blushPink,
+        members: ["Erinn", "Coach", "Debbie", "Sierra", "Tyson", "Brendan", "Jerry", "Candace"]
+      }
+    ]
+  },
+  19: { // Samoa
+    tribes: [
+      {
+        name: "Foa Foa",
+        color: colors.warmOrange,
+        members: ["Natalie", "Russell H.", "Mick", "Jaison", "Brett", "Betsy", "Ashley", "Mike", "Marisa", "Ben"]
+      },
+      {
+        name: "Galu",
+        color: colors.seafoamBlue,
+        members: ["Russell S.", "Laura", "Monica", "Dave", "Shambo", "John", "Kelly", "Erik", "Yasmin", "Liz"]
+      }
+    ]
+  },
+  20: { // Heroes vs. Villains
+    tribes: [
+      {
+        name: "Heroes",
+        color: colors.arugalaGreen,
+        members: ["Rupert", "Colby", "JT", "James", "Tom", "Stephenie", "Amanda", "Cirie", "Candice", "Sugar"]
+      },
+      {
+        name: "Villains",
+        color: colors.cherryRed,
+        members: ["Sandra", "Parvati", "Russell", "Danielle", "Jerri", "Coach", "Courtney", "Tyson", "Rob", "Randy"]
+      }
+    ]
+  },
+  25: { // Philippines
+    tribes: [
+      {
+        name: "Matsing",
+        color: colors.seafoamBlue,
+        members: ["Malcolm", "Denise", "Russell", "Angie", "Roxy", "Zane"]
+      },
+      {
+        name: "Tandang",
+        color: colors.cherryRed,
+        members: ["Lisa", "Michael", "Abi-Maria", "Pete", "Artis", "RC"]
+      },
+      {
+        name: "Kalabaw",
+        color: colors.arugalaGreen,
+        members: ["Jonathan", "Jeff", "Carter", "Katie", "Dana", "Dawson"]
+      }
+    ]
+  },
+  26: { // Caramoan - Fans vs. Favorites
+    tribes: [
+      {
+        name: "Gota",
+        color: colors.warmOrange,
+        members: ["Sherri", "Eddie", "Reynold", "Michael", "Matt", "Hope", "Allie", "Laura", "Julia", "Shamar"]
+      },
+      {
+        name: "Bikal",
+        color: colors.seafoamBlue,
+        members: ["Cochran", "Dawn", "Andrea", "Brenda", "Erik", "Phillip", "Malcolm", "Corinne", "Brandon", "Francesca"]
+      }
+    ]
+  },
+  27: { // Blood vs. Water
+    tribes: [
+      {
+        name: "Galang",
+        color: colors.warmOrange,
+        members: ["Tyson", "Gervase", "Monica", "Laura M.", "Aras", "Kat", "Tina", "Rupert", "Colton", "Laura B."]
+      },
+      {
+        name: "Tadhana",
+        color: colors.seafoamBlue,
+        members: ["Hayden", "Ciera", "Caleb", "Katie", "Vytas", "Rachel", "John", "Candice", "Brad", "Marissa"]
+      }
+    ]
+  },
+  28: { // Cagayan - Brains vs. Brawn vs. Beauty
+    tribes: [
+      {
+        name: "Luzon (Brains)",
+        color: colors.forestGreen,
+        members: ["Spencer", "Kass", "Tasha", "J'Tia", "Garrett", "David"]
+      },
+      {
+        name: "Solana (Beauty)",
+        color: colors.blushPink,
+        members: ["LJ", "Jefra", "Jeremiah", "Morgan", "Brice", "Alexis"]
+      },
+      {
+        name: "Aparri (Brawn)",
+        color: colors.arugalaGreen,
+        members: ["Tony", "Woo", "Trish", "Sarah", "Cliff", "Lindsey"]
+      }
+    ]
+  },
+  29: { // San Juan del Sur - Blood vs. Water 2
+    tribes: [
+      {
+        name: "Hunahpu",
+        color: colors.forestGreen,
+        members: ["Natalie", "Keith", "Missy", "Jon", "Julie", "Reed", "Drew", "Jeremy", "Kelley", "Val"]
+      },
+      {
+        name: "Coyopa",
+        color: colors.warmOrange,
+        members: ["Jaclyn", "Baylor", "Alec", "Wes", "Josh", "John", "Dale", "Nadiya", "Colton"]
+      }
+    ]
+  },
+  30: { // Worlds Apart
+    tribes: [
+      {
+        name: "Masaya (White Collar)",
+        color: colors.seafoamBlue,
+        members: ["Carolyn", "Tyler", "Max", "Shirin", "Joaquin", "So"]
+      },
+      {
+        name: "Escameca (Blue Collar)",
+        color: colors.forestGreen,
+        members: ["Mike", "Sierra", "Rodney", "Dan", "Kelly", "Lindsey"]
+      },
+      {
+        name: "Nagarote (No Collar)",
+        color: colors.warmOrange,
+        members: ["Will", "Jenn", "Hali", "Joe", "Nina", "Vince"]
+      }
+    ]
+  },
+  31: { // Cambodia - Second Chances
+    tribes: [
+      {
+        name: "Bayon",
+        color: colors.arugalaGreen,
+        members: ["Jeremy", "Tasha", "Kimmi", "Joe", "Keith", "Monica", "Stephen", "Ciera", "Kass", "Spencer"]
+      },
+      {
+        name: "Ta Keo",
+        color: colors.warmOrange,
+        members: ["Kelley", "Kelly", "Abi-Maria", "Vytas", "Terry", "Woo", "Shirin", "Peih-Gee", "Jeff", "Andrew"]
+      }
+    ]
+  },
+  32: { // Kaoh Rong - Brains vs. Brawn vs. Beauty 2
+    tribes: [
+      {
+        name: "Chan Loh (Brains)",
+        color: colors.arugalaGreen,
+        members: ["Aubry", "Joe", "Debbie", "Neal", "Peter", "Liz"]
+      },
+      {
+        name: "Gondol (Beauty)",
+        color: colors.blushPink,
+        members: ["Michele", "Tai", "Anna", "Julia", "Nick", "Caleb"]
+      },
+      {
+        name: "To Tang (Brawn)",
+        color: colors.cherryRed,
+        members: ["Cydney", "Kyle", "Alecia", "Scot", "Jennifer", "Darnell"]
+      }
+    ]
+  },
+  33: { // Millennials vs. Gen X
+    tribes: [
+      {
+        name: "Vanua (Millennials)",
+        color: colors.seafoamBlue,
+        members: ["Adam", "Hannah", "Jay", "Will", "Michaela", "Zeke", "Mari", "Figgy", "Michelle", "Taylor"]
+      },
+      {
+        name: "Takali (Gen X)",
+        color: colors.cherryRed,
+        members: ["Ken", "David", "Jessica", "Bret", "Sunday", "Chris", "CeCe", "Lucy", "Paul", "Rachel"]
+      }
+    ]
+  },
+  34: { // Game Changers
+    tribes: [
+      {
+        name: "Nuku",
+        color: colors.arugalaGreen,
+        members: ["Sarah", "Brad", "Sierra", "Tai", "JT", "James", "Malcolm", "Aubry", "Sandra", "Jeff"]
+      },
+      {
+        name: "Mana",
+        color: colors.cherryRed,
+        members: ["Troyzan", "Michaela", "Hali", "Caleb", "Tony", "Ciera", "Debbie", "Ozzy", "Cirie", "Andrea"]
+      }
+    ]
+  },
+  35: { // Heroes vs. Healers vs. Hustlers
+    tribes: [
+      {
+        name: "Levu (Heroes)",
+        color: colors.arugalaGreen,
+        members: ["Ben", "Chrissy", "JP", "Ashley", "Alan", "Katrina"]
+      },
+      {
+        name: "Soko (Healers)",
+        color: colors.blushPink,
+        members: ["Cole", "Jessica", "Desi", "Joe", "Mike", "Roark"]
+      },
+      {
+        name: "Yawa (Hustlers)",
+        color: colors.cherryRed,
+        members: ["Ryan", "Devon", "Lauren", "Ali", "Patrick", "Simone"]
+      }
+    ]
+  },
+  36: { // Ghost Island
+    tribes: [
+      {
+        name: "Naviti",
+        color: colors.seafoamBlue,
+        members: ["Wendell", "Domenick", "Kellyn", "Chelsea", "Sebastian", "Desiree", "Bradley", "Angela", "Chris", "Morgan"]
+      },
+      {
+        name: "Malolo",
+        color: colors.warmOrange,
+        members: ["Laurel", "Donathan", "Michael", "Jenna", "Stephanie", "James", "Libby", "Brendan", "Jacob", "Gonzalez"]
+      }
+    ]
+  },
+  37: { // David vs. Goliath
+    tribes: [
+      {
+        name: "David",
+        color: colors.warmOrange,
+        members: ["Nick", "Mike", "Davie", "Christian", "Gabby", "Carl", "Elizabeth", "Bi", "Jessica", "Pat"]
+      },
+      {
+        name: "Goliath",
+        color: colors.seafoamBlue,
+        members: ["Angelina", "Kara", "Alison", "Alec", "John", "Dan", "Natalia", "Natalie", "Jeremy", "Mike"]
+      }
+    ]
+  }
+};
+
+// Helper function to get tribes for a specific season
+export const getTribesBySeason = (seasonNumber) => {
+  return tribeData[seasonNumber] ? tribeData[seasonNumber].tribes : [];
+};
+
+// Helper function to get all tribe members for a season
+export const getAllTribeMembersBySeason = (seasonNumber) => {
+  const tribes = getTribesBySeason(seasonNumber);
+  const allMembers = [];
+  
+  tribes.forEach(tribe => {
+    tribe.members.forEach(member => {
+      allMembers.push({
+        name: member,
+        tribe: tribe.name,
+        tribeColor: tribe.color
+      });
+    });
+  });
+  
+  return allMembers;
+};

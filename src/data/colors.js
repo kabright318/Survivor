@@ -1,0 +1,23 @@
+// Define the colors from the provided palette
+export const colors = {
+  buttermilkCream: '#FAF5EF',
+  forestGreen: '#2C5E1A',
+  warmOrange: '#FF8C42',
+  arugalaGreen: '#8DBE5A',
+  seafoamBlue: '#A8D8D1',
+  vintageGraphite: '#4B4B4B',
+  blushPink: '#F5C2C0',
+  cherryRed: '#E63946',
+  primary: '#2C5E1A',
+  secondary: '#8DBE5A',
+  accent: '#A3B9C9',
+  background: '#FAF5EF',
+  input: '#FFFFFF',
+  text: '#33465B',
+  lightText: '#6E8898',
+  border: '#D1D9E2',
+  focus: '#2C5E1A',
+  error: '#E63946',
+  warning: '#F9C74F',
+  success: '#43AA8B',
+};
