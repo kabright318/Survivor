@@ -1,5 +1,5 @@
 import React from 'react';
-import { TrendingUp, Star, Menu, Award, Info } from 'lucide-react';
+import { Target, User, BookOpen, Star, Info } from 'lucide-react';
 
 const ScoreIcon = ({ score, category, color }) => {
   const maxScore = 10;
@@ -8,16 +8,16 @@ const ScoreIcon = ({ score, category, color }) => {
   let icon;
   switch(category) {
     case 'strategy':
-      icon = <TrendingUp size={20} />;
+      icon = <Target size={20} />;
       break;
     case 'characters':
-      icon = <Star size={20} />;
+      icon = <User size={20} />;
       break;
     case 'story':
-      icon = <Menu size={20} />;
+      icon = <BookOpen size={20} />;
       break;
     case 'iconicMoments':
-      icon = <Award size={20} />;
+      icon = <Star size={20} />;
       break;
     default:
       icon = <Info size={20} />;
